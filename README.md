@@ -9,7 +9,7 @@
 
 **Desarrollo web · Software · Proyectos personales**
 
-[![GitHub](https://img.shields.io/badge/GitHub-saredgp--beep-181717?style=for-the-badge&logo=github)](https://github.com/saredgp-beep)
+[![GitHub](https://img.shields.io/badge/GitHub-saredgarcia-181717?style=for-the-badge&logo=github)](https://github.com/saredgp-beep)
 
 </div>
 
@@ -114,9 +114,9 @@ Sistema con frontend y backend separados, API REST y administración de tareas, 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=saredgp-beep&show_icons=true&hide_border=true&bg_color=10091C&title_color=A000F0&icon_color=00D0F0&text_color=E8E5F5&locale=es" alt="Estadísticas de GitHub">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=saredgarcia&show_icons=true&hide_border=true&bg_color=10091C&title_color=A000F0&icon_color=00D0F0&text_color=E8E5F5&locale=es" alt="Estadísticas de GitHub">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saredgp-beep&layout=compact&hide_border=true&bg_color=10091C&title_color=A000F0&text_color=E8E5F5" alt="Lenguajes más utilizados">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saredgarcia&layout=compact&hide_border=true&bg_color=10091C&title_color=A000F0&text_color=E8E5F5" alt="Lenguajes más utilizados">
 
 </div>
 
